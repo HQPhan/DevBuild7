@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HPHAN1\\devbuild\\LAB\\RoomCalculatorClassExample\\RoomCalculatorClassExample\\RoomCalculatorClassExample.csproj",
-      "projectName": "RoomCalculatorClassExample",
-      "projectPath": "C:\\Users\\HPHAN1\\devbuild\\LAB\\RoomCalculatorClassExample\\RoomCalculatorClassExample\\RoomCalculatorClassExample.csproj",
+      "projectUniqueName": "C:\\Users\\HPHAN1\\devbuild\\LAB\\Number Analyzer\\Number Analyzer\\Number Analyzer.csproj",
+      "projectName": "Number Analyzer",
+      "projectPath": "C:\\Users\\HPHAN1\\devbuild\\LAB\\Number Analyzer\\Number Analyzer\\Number Analyzer.csproj",
       "packagesPath": "C:\\Users\\HPHAN1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HPHAN1\\devbuild\\LAB\\RoomCalculatorClassExample\\RoomCalculatorClassExample\\obj\\",
+      "outputPath": "C:\\Users\\HPHAN1\\devbuild\\LAB\\Number Analyzer\\Number Analyzer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
