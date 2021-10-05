@@ -1,0 +1,14 @@
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LAB\RoomCalculatorClassExample\RoomCalculatorClassExample\bin\Debug\netcoreapp3.1\RoomCalculatorClassExample.exe
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LAB\RoomCalculatorClassExample\RoomCalculatorClassExample\bin\Debug\netcoreapp3.1\RoomCalculatorClassExample.deps.json
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LAB\RoomCalculatorClassExample\RoomCalculatorClassExample\bin\Debug\netcoreapp3.1\RoomCalculatorClassExample.runtimeconfig.json
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LAB\RoomCalculatorClassExample\RoomCalculatorClassExample\bin\Debug\netcoreapp3.1\RoomCalculatorClassExample.runtimeconfig.dev.json
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LAB\RoomCalculatorClassExample\RoomCalculatorClassExample\bin\Debug\netcoreapp3.1\RoomCalculatorClassExample.dll
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LAB\RoomCalculatorClassExample\RoomCalculatorClassExample\bin\Debug\netcoreapp3.1\RoomCalculatorClassExample.pdb
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LAB\RoomCalculatorClassExample\RoomCalculatorClassExample\obj\Debug\netcoreapp3.1\RoomCalculatorClassExample.csproj.AssemblyReference.cache
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LAB\RoomCalculatorClassExample\RoomCalculatorClassExample\obj\Debug\netcoreapp3.1\RoomCalculatorClassExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LAB\RoomCalculatorClassExample\RoomCalculatorClassExample\obj\Debug\netcoreapp3.1\RoomCalculatorClassExample.AssemblyInfoInputs.cache
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LAB\RoomCalculatorClassExample\RoomCalculatorClassExample\obj\Debug\netcoreapp3.1\RoomCalculatorClassExample.AssemblyInfo.cs
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LAB\RoomCalculatorClassExample\RoomCalculatorClassExample\obj\Debug\netcoreapp3.1\RoomCalculatorClassExample.csproj.CoreCompileInputs.cache
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LAB\RoomCalculatorClassExample\RoomCalculatorClassExample\obj\Debug\netcoreapp3.1\RoomCalculatorClassExample.dll
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LAB\RoomCalculatorClassExample\RoomCalculatorClassExample\obj\Debug\netcoreapp3.1\RoomCalculatorClassExample.pdb
+C:\Users\HPHAN1\OneDrive - Knex\Desktop\HuyP\DevB\LAB\RoomCalculatorClassExample\RoomCalculatorClassExample\obj\Debug\netcoreapp3.1\RoomCalculatorClassExample.genruntimeconfig.cache
